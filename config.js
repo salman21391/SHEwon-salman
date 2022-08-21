@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
+global.owner = ['923231582002','']
+global.premium = ['923231582002','923231582002']
 global.botname = 'SHEWON MD BOT'
 global.ownername = 'Shewon'
 global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
@@ -52,10 +52,10 @@ global.goldAwal = '10'
 global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
-global.dripstyping = false
+global.dripstyping = true
 global.dripsreadgroup = false
 global.dripsreadall = false
-global.dripsrecord = false
+global.dripsrecord = true
 global.available = false
 global.unavailable = true
 global.limittot = 100,
